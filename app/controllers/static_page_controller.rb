@@ -7,4 +7,8 @@ class StaticPageController < ApplicationController
 
   def about
   end
+
+  def conatct
+  end
+
 end
